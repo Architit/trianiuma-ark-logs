@@ -1,0 +1,9 @@
+[  FAIL  ] Initialization crash:
+Command was cancelled by user before it could complete. Below is the output before it was cancelled:
+[  0.000000] CPU: ARM64 Radriloniuma-v8 Integrated Controller
+...
+Unknown argument: dir
+Usage: gemini [options] [command]
+...
+[*] Powering down Core Nodes...
+[  OK  ] Node NODE_20260530_210147_282 in Stasis Mode.
